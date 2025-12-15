@@ -1,4 +1,5 @@
-#Members
-Eugene kuria
-Chris Mathenge
-Halimasaaida Abdiaziz Hussein
+Project Members
+- Eugene Kuria
+- Chris Mathenge
+- Halimasaaida Abdiaziz Hussein
+
